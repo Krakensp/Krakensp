@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there 👋, I'm Miguel
+#### Web programmer and excel developer
+My passion is to solve buissnes problems using Excel or Web code 
 
-<!--
-**Krakensp/Krakensp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+### Skills: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+|Web Programmer|Excel Developer|Others|
+---|---|---|
+|-JS|-VBA||
+|-CSS|-Power Querry|C|
+|-HTML|-Power Pivot|JAVA,C++|
+|-SQL|-Excel|BOOTSTRAP|
+
+<hr>
+
+### Socials:
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Krakensp) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/miguel-laguna-web-programmer/)  
+
