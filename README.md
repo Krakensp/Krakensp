@@ -6,7 +6,7 @@ My passion is to solve buissnes problems using Excel or Web code
 
 ### Skills: 
 
-|Web Programmer|Excel Developer|Others|
+| **Web Programmer **| **Excel Developer** |Others|
 ---|---|---|
 |-JS|-VBA||
 |-CSS|-Power Querry|C|
